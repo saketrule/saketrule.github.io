@@ -1,3 +1,0 @@
-API KEY:AIzaSyAOIunjxAP2JhxGp4_PwF_wzfw1SLJSV6g
-search_engine_id(cx):010264046525631747771:4qeeobd9vgq
-https://www.googleapis.com/customsearch/v1?key=AIzaSyAOIunjxAP2JhxGp4_PwF_wzfw1SLJSV6g&cx=010264046525631747771:4qeeobd9vgq&q=tirupati
