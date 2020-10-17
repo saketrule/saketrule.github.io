@@ -64,7 +64,7 @@ subject to 		Ax + s = b,
 - Integer linear programming (ILP) : Where the objective function & constraints are linear
 - Mixed-integer programming (MIP) : Some decision variables are not discrete
 
-z```
+```
 maximize		c^t * x
 subject to 		Ax <= b,
 				x >= 0,
