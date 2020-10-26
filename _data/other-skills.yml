@@ -1,0 +1,7 @@
+- name: pySpark
+  percentage: 95
+  color: info
+
+- name: Web Scraping
+  percentage: 90
+  color: success
