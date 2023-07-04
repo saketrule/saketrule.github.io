@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I love to read non-fiction during my leisure time. I especially enjoy the fields of physics, mathematics economics. You can also find me tinkering with the latest and shiniest frameworks, and getting a new perspective wherever I can. I enjoy a variety of sports, including Chess, Skiing, Table-tennis and running.
+I am a graduate student studying Data Science at Harvard University. I did my undergraduate education in Computer Science at IIT Tirupati, and am especially interested in Machine learning, Software engineering and computational finance (Physics is my favorite though).  I love to read non-fiction and in my free time, you will find me tinkering with the latest and shiniest frameworks, and trying to get a new perspective wherever possible. I also enjoy a variety of sports, including Chess, Skiing, Table-tennis and running.
 
 <br>
 
@@ -25,7 +25,11 @@ I love to read non-fiction during my leisure time. I especially enjoy the fields
 </div>
 -->
 
-##### June 2019 - Current 
+##### July 2023 - Current 
+Engineering Intern, <br>
+Twitter, San Francisco <br>
+
+##### June 2019 - Aug 2022
 Data Scientist, <br>
 Fourkites Inc. <br>
 
@@ -40,11 +44,22 @@ Alation Inc <br>
 ### Education
 ---------------------
 
+##### Aug 2022 - Dec 2023
+Master of Science (MS) <br>
+Data Science <br>
+Harvard University <br>
+*CGPA: 3.92 / 4.0* <br>
+
+##### Jan 2023 - Dec 2023
+Harvard-MIT Cross-registered Student <br>
+Massachusetts Institute of Technology (MIT) <br>
+
+
 ##### May 2015 - May 2019
 Bachelor of Technology (B.Tech) <br>
 Computer Science & Engineering <br>
 Indian Institute of Technology, Tirupati (IIT Tirupati) <br>
-*CGPA: 9.31* <br>
+*CGPA: 9.31 / 10.0* <br>
 
 ##### April 2014 - May 2015
 Intermediate + 2, CBSE<br>
