@@ -75,7 +75,7 @@ April 2012 - May 2013 <br>
 Mumbai <br>
 *Percentage - 94%*
 
-### Publications
+[Publications](#publications)
 ---------------------
 
 *Joshi, S. D., & Chimalakonda, S. (2019, May).* RapidRelease-A Dataset of Projects and Issues on Github with Rapid Releases. In 2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR) (pp. 587-591). IEEE. <br>
@@ -83,7 +83,7 @@ Mumbai <br>
 [ACM digital library](https://dl.acm.org/doi/10.1109/MSR.2019.00088) 
 <br>
 
-### Achievements & Other Experience 
+[Achievements & Other Experience](#achievements--other-experience)
 ---------------------
 + Recipient of the 2022 **J. N. Tata Scholarship**, awarded to meritorious Indian students
 + Research Assistant at the **Culture, Cognition, and Co-evolution lab, Harvard University** (Summer 2023)
@@ -101,7 +101,7 @@ Mumbai <br>
 + Coordinator, IIT Tirupati Coding Club (2016-2018)
 <br>
 
-### Notable Projects
+[Notable Projects](#notable-projects)
 ---------------------
 
 + Fully automated facial recognition system [link](/projects/1-facial-recognition)
