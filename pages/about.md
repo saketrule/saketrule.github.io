@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I am a graduate student studying Data Science at Harvard University. I did my undergraduate education in Computer Science at IIT Tirupati, and am especially interested in Machine learning, Software engineering and computational finance (Physics is my favorite though).  I love to read non-fiction and in my free time, you will find me tinkering with the latest and shiniest frameworks, and trying to get a new perspective wherever possible. I also enjoy a variety of sports, including Chess, Skiing, Table-tennis and running.
+I am a graduate student studying Data Science at Harvard University, currently interning at Twitter in San Francisco, CA. I did my undergraduate education in Computer Science at IIT Tirupati, and am especially interested in Machine learning, Software engineering and computational finance (Physics is my favorite though).  I love to read non-fiction and in my free time, you will find me tinkering with the latest and shiniest frameworks, and trying to get a new perspective wherever possible. I also enjoy a variety of sports, including Chess, Skiing, Table-tennis and running.
 
 <br>
 
@@ -25,18 +25,18 @@ I am a graduate student studying Data Science at Harvard University. I did my un
 </div>
 -->
 
-##### July 2023 - Current 
+
+##### Twitter
 Engineering Intern, <br>
-Twitter, San Francisco <br>
+July 2023 - Current <br>
 
-##### June 2019 - Aug 2022
+##### Fourkites Inc.
 Data Scientist, <br>
-Fourkites Inc. <br>
+June 2019 - Aug 2022  <br>
 
-##### May 2017 - July 2017
+##### Alation Inc
 Software Intern, <br>
-Alation Inc <br>
-*Offered a pre-placement offer*
+May 2017 - July 2017 <br>
 
 
 <br>
@@ -44,39 +44,33 @@ Alation Inc <br>
 ### Education
 ---------------------
 
-##### Aug 2022 - Dec 2023
+##### Harvard University
 Master of Science (MS) <br>
 Data Science <br>
-Harvard University <br>
+Aug 2022 - Dec 2023 <br>
 *CGPA: 3.92 / 4.0* <br>
 
-##### Jan 2023 - Dec 2023
+##### Massachusetts Institute of Technology (MIT)
 Harvard-MIT Cross-registered Student <br>
-Massachusetts Institute of Technology (MIT) <br>
+Jan 2023 - Dec 2023 <br>
 
 
-##### May 2015 - May 2019
+##### Indian Institute of Technology, Tirupati (IIT Tirupati)
 Bachelor of Technology (B.Tech) <br>
 Computer Science & Engineering <br>
-Indian Institute of Technology, Tirupati (IIT Tirupati) <br>
+May 2015 - May 2019 <br>
 *CGPA: 9.31 / 10.0* <br>
 
-##### April 2014 - May 2015
+##### Ryan International School 
 Intermediate + 2, CBSE<br>
-Ryan International School <br>
+April 2014 - May 2015 <br>
 *Percentage - 89%*
 
-##### April 2012 - May 2013
+##### Apeejay School
 Matriculation, CBSE <br>
-Apeejay School <br>
+April 2012 - May 2013 <br>
 Mumbai <br>
 *Percentage - 94%*
-
-##### Jan 2007 - June 2008
-High School, IB <br>
-Tokyo International School <br>
-Tokyo, Japan
-<br>
 
 ### Publications
 ---------------------
@@ -88,7 +82,10 @@ Tokyo, Japan
 
 ### Achievements & Other Experience 
 ---------------------
-
++ Recipient of the 2022 **J. N. Tata Scholarship**, awarded to meritorious Indian students
++ Research Assistant at the **Culture, Cognition, and Co-evolution lab, Harvard University** (Summer 2023)
++ Course Assistant for CS184 - **Reinforcement learning, Harvard University** (Fall 2023)
++ **Algorithmic trading** - Deployed multiple intraday multi-leg derivative strategies on the Indian stock exchanges
 + Selected for and secured rank 86 at the **2017 ACM ICPC India regionals**, Gwalior site.
 + 1st position, Maze Rover, **IIT Madras, Shaastra 2017**
 + 2nd position, Intra college Chess competition, **IIT Tirupati Sports Club, 2016**

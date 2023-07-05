@@ -5,13 +5,27 @@ permalink: /certificates/
 weight: 3
 ---
 
-### Certificates
+## Certificates
+
+### WSSE - Winter School of Software Engineering
+![Certificate](../cert_wsse.jpg)
+
+### Maze Rover - Robotics competition
+![Certificate](../cert_shaastra.png)
 
 ### Google Data engineering Coursera
 ![Certificate](../cert_data_eng.jpeg)
 
-{% capture carousel_images %}
-../cert_data_eng.jpeg
-../maze-rover_team.jpg
-{% endcapture %}
-{% include elements/carousel.html %}
+### ICPC
+![Certificate](../cert_icpc.png)
+
+![Certificate](cert_icpc2.png)
+
+### IIT Bachelor of Technology Degree
+![Certificate](../cert_degree.jpg)
+
+### Organizing Committee for programming contest
+![Certificate](../cert_hackathon.jpg)
+
+### Chess
+![Certificate](../cert_chess.jpg)
