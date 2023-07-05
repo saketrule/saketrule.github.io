@@ -26,11 +26,11 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Saket Joshi
-  image             : https://www.surveycto.com/wp-content/uploads/2018/04/ai-and-dev.jpg
+  image             : ../profile_photo.jpg
   behance           : saketrule
 # dribbble          : your_username
   email             : saketrule@gmail.com
-  facebook          : your_username
+  # facebook          : your_username
   github            : saketrule
 # gitlab            : your_username
 # instagram         : your_username
