@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Saket Joshi
 description         : >-
-                      Turn coffee :coffee: & tea into code
+                      Turn tea :coffee: into code
                       Test code before sending to production
 baseurl             : ""
 repository          : saketrule/saketrule.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -96,3 +96,4 @@ exclude:
   - LICENSE
   - "*.log"
   - projects_sample
+ 

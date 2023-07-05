@@ -29,15 +29,15 @@ You can find my latest resume here - [Resume](../resume_saket_harvard_jun_2023_t
 
 
 ##### Twitter
-Engineering Intern, <br>
+Engineering Intern <br>
 July 2023 - Current <br>
 
 ##### Fourkites Inc.
-Data Scientist, <br>
+Data Scientist <br>
 June 2019 - Aug 2022  <br>
 
 ##### Alation Inc
-Software Intern, <br>
+Software Intern <br>
 May 2017 - July 2017 <br>
 
 
