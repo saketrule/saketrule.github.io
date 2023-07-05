@@ -5,7 +5,8 @@ permalink: /about/
 weight: 3
 ---
 
-[### About Me](aboutme)
+About Me
+--------------------
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 I am a graduate student studying Data Science at Harvard University, currently interning at Twitter in San Francisco, CA. I did my undergraduate education in Computer Science at IIT Tirupati, and am especially interested in Machine learning, Software engineering and computational finance (Physics is my favorite though).  I love to read non-fiction and in my free time, you will find me tinkering with the latest and shiniest frameworks, and trying to get a new perspective wherever possible. I also enjoy a variety of sports, including Chess, Skiing, Table-tennis and running.
@@ -14,7 +15,7 @@ You can find my latest resume here - [Resume](../resume_saket_harvard_jun_2023_t
 
 <br>
 
-[### Work Experience](experience)
+Work Experience
 --------------------
 <!--
 <div class="row">
@@ -43,7 +44,7 @@ May 2017 - July 2017 <br>
 
 <br>
 
-[### Education](education)
+Education
 ---------------------
 
 ##### Harvard University
