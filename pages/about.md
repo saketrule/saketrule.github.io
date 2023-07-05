@@ -14,7 +14,7 @@ You can find my latest resume here - [Resume](../resume_saket_harvard_jun_2023_t
 
 <br>
 
-### Work Experience
+[experience](### Work Experience)
 --------------------
 <!--
 <div class="row">
@@ -43,7 +43,7 @@ May 2017 - July 2017 <br>
 
 <br>
 
-### Education
+[education](### Education)
 ---------------------
 
 ##### Harvard University
@@ -51,10 +51,12 @@ Master of Science (MS) <br>
 Data Science <br>
 Aug 2022 - Dec 2023 <br>
 *CGPA: 3.92 / 4.0* <br>
+[Transcript](../transcript_harvard.pdf) <br>
 
 ##### Massachusetts Institute of Technology (MIT)
 Harvard-MIT Cross-registered Student <br>
 Jan 2023 - Dec 2023 <br>
+[Transcript](../transcript_harvard.pdf) <br>
 
 
 ##### Indian Institute of Technology, Tirupati (IIT Tirupati)
@@ -62,6 +64,7 @@ Bachelor of Technology (B.Tech) <br>
 Computer Science & Engineering <br>
 May 2015 - May 2019 <br>
 *CGPA: 9.31 / 10.0* <br>
+[Transcript](../transcript_iit.pdf) <br>
 
 ##### Ryan International School 
 Intermediate + 2, CBSE<br>
