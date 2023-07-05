@@ -5,8 +5,13 @@ permalink: /certificates/
 weight: 3
 ---
 
+### Certificates
+
+### Google Data engineering Coursera
+![Certificate](../cert_data_eng.jpeg)
+
 {% capture carousel_images %}
-../maze-rover_bot.jpg
+../cert_data_eng.jpeg
 ../maze-rover_team.jpg
 {% endcapture %}
 {% include elements/carousel.html %}
