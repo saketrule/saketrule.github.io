@@ -5,17 +5,17 @@ permalink: /about/
 weight: 3
 ---
 
-About Me
+[About Me](#about-me)
 --------------------
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 I am a graduate student studying Data Science at Harvard University, currently interning at Twitter in San Francisco, CA. I did my undergraduate education in Computer Science at IIT Tirupati, and am especially interested in Machine learning, Software engineering and computational finance (Physics is my favorite though).  I love to read non-fiction and in my free time, you will find me tinkering with the latest and shiniest frameworks, and trying to get a new perspective wherever possible. I also enjoy a variety of sports, including Chess, Skiing, Table-tennis and running.
 
-You can find my latest resume here - [Resume](../resume_saket_harvard_jun_2023_twitter-9.pdf)
+You can find my latest resume here - [Resume](../resume_saket_harvard_jun_2023_twitter.pdf)
 
 <br>
 
-Work Experience
+[Work Experience](#work-experience)
 --------------------
 <!--
 <div class="row">
@@ -44,25 +44,25 @@ May 2017 - July 2017 <br>
 
 <br>
 
-Education
+[Education](#education)
 ---------------------
 
 ##### Harvard University
 Master of Science (MS) <br>
 Data Science <br>
 Aug 2022 - Dec 2023 <br>
-*CGPA: 3.92 / 4.0* <br> [(Transcript)](../transcript_harvard.pdf) <br>
+*CGPA: 3.92 / 4.0*  [(Transcript)](../transcript_harvard.pdf) <br> 
 
 ##### Massachusetts Institute of Technology (MIT)
 Harvard-MIT Cross-registered Student <br>
-Jan 2023 - Dec 2023 <br> [(Transcript)](../transcript_harvard.pdf) <br>
+Jan 2023 - Dec 2023 [(Transcript)](../transcript_harvard.pdf) <br>
 
 
 ##### Indian Institute of Technology, Tirupati (IIT Tirupati)
 Bachelor of Technology (B.Tech) <br>
 Computer Science & Engineering <br>
 May 2015 - May 2019 <br>
-*CGPA: 9.31 / 10.0* <br> [(Transcript)](../transcript_iit.pdf) <br>
+*CGPA: 9.31 / 10.0*  [(Transcript)](../transcript_iit.pdf) <br>
 
 ##### Ryan International School 
 Intermediate + 2, CBSE<br>
