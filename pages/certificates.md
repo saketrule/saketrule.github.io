@@ -7,9 +7,12 @@ weight: 3
 
 
 ## Artifacts
+--------------------------------------------
 Here is a presentation I gave at Twitter as part of my internship process! - [Presentation](../twitter_presentation.pdf)
 
+
 ## Certificates
+--------------------------------------------
 
 ### Google Data engineering Coursera
 ![Certificate](../cert_data_eng.jpeg)
