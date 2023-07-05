@@ -8,7 +8,7 @@ weight: 3
 
 ## Artifacts
 --------------------------------------------
-Here is a presentation I gave at Twitter as part of my internship process! - [Presentation](../twitter_presentation.pdf)
+Here is the slide deck for a presentation I gave at Twitter as part of my internship selection process! - [Presentation](../twitter_presentation.pdf)
 
 
 ## Certificates
