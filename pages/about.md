@@ -10,7 +10,7 @@ weight: 3
 Hi I am **{{ site.author.name }}** :wave:,<br>
 I am a graduate student studying Data Science at Harvard University, currently interning at Twitter in San Francisco, CA. I did my undergraduate education in Computer Science at IIT Tirupati, and am especially interested in Machine learning, Software engineering and computational finance (Physics is my favorite though).  I love to read non-fiction and in my free time, you will find me tinkering with the latest and shiniest frameworks, and trying to get a new perspective wherever possible. I also enjoy a variety of sports, including Chess, Skiing, Table-tennis and running.
 
-You can find my latest resume here - [Resume](../resume_saket_harvard_jun_2023_twitter-2.pdf)
+You can find my latest resume here - [Resume](../resume_saket_harvard_jun_2023_twitter-9.pdf)
 
 <br>
 
@@ -108,5 +108,6 @@ Mumbai <br>
 + RapidRelease - A dataset of projects and issues on Github with Rapid release cycles [link](/projects/3-rapidrelease)
 + ArchCK - Architecturally anchored development of Android applications by continuous monitoring of CK metrics [link](/projects/4-archck)
 <br>
- 
+
+
 
