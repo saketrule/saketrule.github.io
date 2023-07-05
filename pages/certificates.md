@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Certificates
+title: Certificates & Artifacts
 permalink: /certificates/
 weight: 3
 ---
 
-## Certificates
 
+## Artifacts
+Here is a presentation I gave at Twitter as part of my internship process! - [Presentation](../twitter_presentation.pdf)
+
+## Certificates
 
 ### Google Data engineering Coursera
 ![Certificate](../cert_data_eng.jpeg)
@@ -20,7 +23,7 @@ weight: 3
 ![Certificate](../cert_shaastra.png)
 
 ### WSSE - Winter School of Software Engineering
-![Certificate](../cert_wsse.jpg)
+![Certificate](../cert_wsse_2.jpg)
 
 ### IIT Bachelor of Technology Degree
 ![Certificate](../cert_degree.jpg)
